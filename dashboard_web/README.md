@@ -6,4 +6,4 @@ start Django server
 ```sh
 python manage.py runserver
 ```
-visit '''sh http://127.0.0.1:8000/''' with your Web browser
+visit `http://127.0.0.1:8000/` with your Web browser
